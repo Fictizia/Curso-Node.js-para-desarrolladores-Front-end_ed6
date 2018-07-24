@@ -42,8 +42,8 @@ Teoría y Recursos
 
 | Documentación | Recursos | Resumen |
 |--------|---------|---------|
-| [Clase 1](clase1/README.md) | [Clase 1](clase1/recursos.md) | Javascript, Git, el entorno de desarrollo y nuevas funcionalidades |
-
+| [Clase 1](clase1/README.md) | [Clase 1](clase1/recursos.md) | Git, el entorno de desarrollo y nuevas funcionalidades |
+| [Clase 2](clase2/README.md) | [Clase 2](clase2/recursos.md) | Javascript, HTTP, terminal UNIX, Node.js y npm |
 
 
 Temario
