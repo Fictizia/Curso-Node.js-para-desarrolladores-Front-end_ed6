@@ -44,9 +44,8 @@ Teoría y Recursos
 |--------|---------|---------|
 | [Clase 1](clase1/README.md) | [Clase 1](clase1/recursos.md) | Git, el entorno de desarrollo y nuevas funcionalidades |
 | [Clase 2](clase2/README.md) | [Clase 2](clase2/recursos.md) | Reintro a Javascript |
-| [Clase 3](clase3/README.md) | [Clase 3](clase3/recursos.md) | Javascript ES6+, HTTP, terminal UNIX, Node.js y npm |
-
-
+| [Clase 3](clase3/README.md) | [Clase 3](clase3/recursos.md) | Javascript ES6+, HTTP, terminal UNIX, |
+| [Clase 4](clase4/README.md) | [Clase 4](clase4/recursos.md) |Node.js Core, npm y Express, middlewares y motores de plantillas |
 
 Temario
 =================
