@@ -47,6 +47,7 @@ Teoría y Recursos
 | [Clase 3](clase3/README.md) | [Clase 3](clase3/recursos.md) | Javascript ES6+, HTTP, terminal UNIX, |
 | [Clase 4](clase4/README.md) | [Clase 4](clase4/recursos.md) | Node.js Core, npm y Express, middlewares y motores de plantillas |
 | [Clase 5](clase5/README.md) | [Clase 5](clase5/recursos.md) | Socket.io y despliegue en la nube mediante Heroku |
+| [Clase 6](clase6/README.md) | [Clase 6](clase6/recursos.md) | Bases de datos noSQL con Firebase |
 
 
 Temario
