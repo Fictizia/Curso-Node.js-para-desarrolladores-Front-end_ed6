@@ -49,8 +49,7 @@ Teoría y Recursos
 | [Clase 5](clase5/README.md) | [Clase 5](clase5/recursos.md) | Socket.io y despliegue en la nube mediante Heroku |
 | [Clase 6](clase6/README.md) | [Clase 6](clase6/recursos.md) | Bases de datos noSQL con Firebase |
 | [Clase 7](clase7/README.md) | [Clase 7](clase7/recursos.md) | Automatización con Gulp, Yeoman y Bower |
-
-
+| [Clase 8](clase8/README.md) | [Clase 8](clase8/recursos.md) | IOT, Arduino, Electron, Puppeteer, Patrones y Algoritmia |
 
 Temario
 =================
